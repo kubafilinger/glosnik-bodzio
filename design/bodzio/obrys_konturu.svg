@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\Dr greenthumb\Desktop\120.png"
+   inkscape:export-xdpi="50"
+   inkscape:export-ydpi="50"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="obrys_konturu.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2505"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2503" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="305.84313"
+     inkscape:cy="667.5196"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="kontur 2"
+     style="display:inline">
+    <path
+       id="path915"
+       style="opacity:0.94199997;fill:#d500df;fill-opacity:0;stroke:#0000ad;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17.645527,72.52363 H 172.8405 m -155.194973,70 v -70 m 155.194973,70 v -70 m -155.200711,70 H 172.80379"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="cipki 2">
+    <circle
+       style="opacity:1;fill:none;fill-opacity:0.24797842;fill-rule:evenodd;stroke:#ff1300;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path930"
+       cx="49.60944"
+       cy="121.49893"
+       r="2.5" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:0.24797842;fill-rule:evenodd;stroke:#ff1300;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path930-4"
+       cx="60.586658"
+       cy="121.57097"
+       r="2.5" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:0.24797842;fill-rule:evenodd;stroke:#ff1300;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path930-4-9"
+       cx="123.99864"
+       cy="121.43006"
+       r="3" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:0.24797842;fill-rule:evenodd;stroke:#ff1300;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path930-4-9-9"
+       cx="143.51598"
+       cy="121.41978"
+       r="3" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:0.24797842;fill-rule:evenodd;stroke:#ff1300;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path930-4-1"
+       cx="91.541115"
+       cy="107.51581"
+       r="3.5" />
+  </g>
+</svg>
